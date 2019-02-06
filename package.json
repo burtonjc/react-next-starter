@@ -1,0 +1,27 @@
+{
+  "name": "react-next-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burtonjc/react-next-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burtonjc/react-next-starter/issues"
+  },
+  "homepage": "https://github.com/burtonjc/react-next-starter#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
